@@ -2,6 +2,7 @@ ubuntu-trail
 ============
 
 Custom configurations, and software  for ubuntu
+...Aqui estare colocando mis configuraciones personalizadas para GNU/Linux
 
 1. Emacs personalizado
 ___
